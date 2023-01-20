@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'cooldkind.dev',
   author: 'Santiago Vallejo',
-  headerTitle: 'Dev.cademy Blog',
+  headerTitle: 'Kod.cademy Blog',
   description: 'A Colombian programmer.',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -29,7 +29,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // If you want to use an analytics provider you have to add it to the
